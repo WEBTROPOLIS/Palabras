@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Palabras</string>
+    <string name="add">Agregar</string>
+    <string name="del">Eliminar</string>
+    <string name="et1Hint">Ingrese Palabra</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="edit">Editar</string>
+
+</resources>
